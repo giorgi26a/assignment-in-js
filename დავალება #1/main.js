@@ -66,10 +66,10 @@
 
 
 
-const age = "1";
-const hisName = ["bob"];
-const isHigh = "true";
-const dateOfBirth = "1995";
+const age = 1;
+const hisName = "bob";
+const isHigh = true;
+const dateOfBirth = 1995;
 
 
 
